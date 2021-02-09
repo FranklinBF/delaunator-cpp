@@ -1,7 +1,11 @@
 # delaunator-cpp
 
+Anather choice https://www.geom.at/products/fade2d/
+
 A really fast C++ library for
 [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) of 2D points.
+
+
 
 delaunator-cpp is a C++ port from https://github.com/mapbox/delaunator a JavaScript implementation of very fast 2D Delaunay algorithm.
 
